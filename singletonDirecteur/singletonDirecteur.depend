@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1447923887 source:j:\code_blocks\m3105\singletondirecteur\main.cpp
+	<iostream>
+	"SingletonDirecteurIUT.h"
+
+1447923611 source:j:\code_blocks\m3105\singletondirecteur\singletondirecteuriut.cpp
+	"SingletonDirecteurIUT.h"
+
+1447926639 j:\code_blocks\m3105\singletondirecteur\singletondirecteuriut.h
+	<iostream>
+

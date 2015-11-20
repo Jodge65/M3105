@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1447153754 source:j:\code_blocks\m3105\liensentreclasses\individu.cpp
+	"Individu.h"
+
+1447153641 j:\code_blocks\m3105\liensentreclasses\individu.h
+	<iostream>
+	"Voiture.h"
+
+1447153967 source:j:\code_blocks\m3105\liensentreclasses\main.cpp
+	<iostream>
+	"Voiture.h"
+	"Individu.h"
+
+1447153765 source:j:\code_blocks\m3105\liensentreclasses\voiture.cpp
+	"Voiture.h"
+
+1447153635 j:\code_blocks\m3105\liensentreclasses\voiture.h
+	<iostream>
+	"Individu.h"
+
