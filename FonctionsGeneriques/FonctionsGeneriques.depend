@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449068357 source:j:\code_blocks\m3105\fonctionsgeneriques\main.cpp
+	<iostream>
+	<map>
+	<utility>
+

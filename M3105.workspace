@@ -3,5 +3,8 @@
 	<Workspace title="Workspace">
 		<Project filename="LiensEntreClasses/LiensEntreClasses.cbp" />
 		<Project filename="Polymorphisme/Polymorphisme.cbp" />
+		<Project filename="singletonDirecteur/singletonDirecteur.cbp" />
+		<Project filename="Conteneurs/Conteneurs.cbp" />
+		<Project filename="FonctionsGeneriques/FonctionsGeneriques.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

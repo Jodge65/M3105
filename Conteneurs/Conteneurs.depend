@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1448632654 source:j:\code_blocks\m3105\conteneurs\main.cpp
+	<iostream>
+	<list>
+	<map>
+	<utility>
+
