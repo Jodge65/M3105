@@ -1,0 +1,7 @@
+afficher("Veuillez entrer une valeur pour X : ");
+saisir("X");
+afficher("Veuillez entrer une valeur pour Y : ");
+saisir("Y");
+afficher("La valeur du BooleanExp est de : ");
+afficher("expression");s
+end;

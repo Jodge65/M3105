@@ -6,5 +6,6 @@
 		<Project filename="singletonDirecteur/singletonDirecteur.cbp" />
 		<Project filename="Conteneurs/Conteneurs.cbp" />
 		<Project filename="FonctionsGeneriques/FonctionsGeneriques.cbp" />
+		<Project filename="interpreteur/interpreteur.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
